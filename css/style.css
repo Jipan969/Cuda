@@ -28,7 +28,7 @@ button{
     opacity: 0.3;
 }
 h2{
-    font-size: 20px;
+    font-size: 1.8rem !important;
     text-transform: uppercase;
     font-weight: 600;
 }
@@ -40,6 +40,10 @@ h2{
 }
 h1{
     font-weight: 700 !important;
+}
+
+h2{
+    text-transform: uppercase;
 }
 
 
