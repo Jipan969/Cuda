@@ -27,7 +27,7 @@ button{
     width: 10% !important;
     opacity: 0.3;
 }
-. h2{
+h2{
     font-size: 20px;
     text-transform: uppercase;
     font-weight: 600;
@@ -40,10 +40,6 @@ button{
 }
 h1{
     font-weight: 700 !important;
-}
-
-h2{
-    text-transform: uppercase;
 }
 
 
