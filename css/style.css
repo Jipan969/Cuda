@@ -1,0 +1,175 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+
+/* Gloobal Css */
+
+*{
+    border: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+button{
+    width: 15rem;
+    margin: auto;
+    text-align: center;
+    font-weight: 500;
+    color: #ffffff;
+}
+.container{
+    width: 80% !important;
+}
+.underline{
+    border-top: 4px solid black !important;
+    width: 10% !important;
+    opacity: 0.3;
+}
+. h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.box .icons i{
+    padding: 10px;
+    background-color: #acc5d7;
+    border-radius: 100%;
+    color: white;
+}
+h1{
+    font-weight: 700 !important;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+
+
+/* header css */
+header{
+    background-color: #87509c;
+    overflow: hidden;
+}
+.site-bar ul li{
+    float: right;
+}
+.menu-bar a{
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.menu-bar a:hover{
+    background-color: #863ba3;
+    color: #fff;
+}
+.menu-bar ul il{
+    padding: 10px;
+}
+.logo{
+    
+}
+.navbar-toggler{
+    float: right;
+}
+header .btn{
+    background-color: #eb7d4b;
+    color: #fff;
+}
+header .btn:hover{
+    background-color: #f06f33;
+}
+/* Services css */
+#services{
+    background-color: #17c2a4;
+}
+
+
+/* Team css */
+#teams{
+    background-color: #e7f1f8;
+}
+#teams a{
+    text-decoration: none;
+    color: #30bae7;
+}
+
+/* Portfolio css */
+#portfolio{
+    background-color: #ffdd99;
+}
+#portfolio .nav-area a{
+    text-decoration: none;
+    color: black;
+    background-color: #ebc985;
+    margin: 0.5rem;
+    padding: 0.5rem 2rem;
+}
+#portfolio .nav-area a:hover{
+    background-color: #fff;
+}
+#portfolio img{
+    width: 100%;
+}
+#portfolio .nav-area, ul{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#portfolio button{
+    background-color: #17c2a4;
+    color: #fff;
+}
+/* About-us Css */
+#about-us{
+    background-color: #d74680;
+}
+
+
+/* Review-us css */
+#review-us{
+    background-color: #3c5499;
+}
+
+#review-us input{
+    background-color: #273a71;
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: #e7f1f8;
+}
+
+#review-us .input-area textarea{
+    height: 400px;
+    width: 90%;
+    background-color: #273a71;
+    outline: none;
+    color: #e7f1f8;
+    border-radius: 5px;
+    padding: 1rem;
+}
+#review-us button{
+    background-color: #30bae7;
+    color: #ffffff;
+}
+
+footer{
+    background-color: #354a87;
+}
+footer ul li{
+    font-size: 20px;
+}
+footer a{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 0 15px;
+    font-size: 5rem;
+    font-weight: 700;
+}
+footer a:hover{
+    background-color: #32447a;
+
+}
